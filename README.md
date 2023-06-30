@@ -1,6 +1,6 @@
 # Calculation of Macaque Cortical Hierarchy
 
-This repository contains the R and MATLAB code and associated data used specifically for the calculation of the macaque cortical hierarchy as part of the analysis for the published paper:
+This repository contains the R and MATLAB code and associated data used for the calculation of the macaque cortical hierarchy as part of the analysis for the published paper:
 
 Froudist-Walsh, Sean, Daniel P. Bliss, Xingyu Ding, Lucija Rapan, Meiqi Niu, Kenneth Knoblauch, Karl Zilles, Henry Kennedy, Nicola Palomero-Gallagher, and Xiao-Jing Wang. "A dopamine gradient controls access to distributed working memory in the large-scale monkey cortex." Neuron 109, no. 21 (2021): 3500-3520.
 
